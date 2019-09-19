@@ -1,4 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/dnagadi@us.ibm.com/Projects/PlayFramework/play-101/conf/logback.xml,/Users/dnagadi@us.ibm.com/Projects/PlayFramework/play-101/target/scala-2.13/classes/logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/dnagadi@us.ibm.com/Projects/PlayFramework/play-101/conf/application.conf,/Users/dnagadi@us.ibm.com/Projects/PlayFramework/play-101/target/scala-2.13/classes/application.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/dnagadi@us.ibm.com/Projects/PlayFramework/play-101/conf/routes,/Users/dnagadi@us.ibm.com/Projects/PlayFramework/play-101/target/scala-2.13/classes/routes)[0m
